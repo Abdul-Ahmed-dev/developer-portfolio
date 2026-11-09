@@ -1,7 +1,3 @@
 
-console.log("My Developer Portfolio is running!");
+console.log("Abdul's developer portfolio is running!");
 
-// Show a message when the website loads
-window.addEventListener("load", function () {
-    console.log("Welcome to my portfolio!");
-});
